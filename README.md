@@ -1,7 +1,11 @@
-﻿# Sawariya Crane static website
+# Monu Crane Service static website
 
-Open index.html to preview. Upload index.html, styles.css, script.js and the assets folder together to any static host. No backend, installation or build command is required. When deploying from this repository, use client as the publish directory; the root build script is for the separate CRM application.
+Open index.html to preview. Deploy the client directory to a static host. No build or backend is required.
+
+Monu Crane Service: Railway Fatak, Chittor Road, Bhilwara, Rajasthan 311001. Phone: 7231970757.
+
+Six uploaded photos appear in a responsive gallery with lazy loading and loading placeholders. The photo viewer supports arrow keys and Escape. Gallery links also work without JavaScript. Animations respect reduced-motion preferences.
 
 The request form opens WhatsApp with the visitor's details. The visitor must send the message, and the business confirms availability and price. Current location requires browser permission and HTTPS (or localhost); a location can always be entered manually.
 
-Poppins loads from Google Fonts and falls back to sans-serif if unavailable. All images are local. The original business flyer supplies the fleet photo. index.original.html is a backup and does not need to be uploaded.
+Poppins loads from Google Fonts and falls back to sans-serif if unavailable. All photos are local, and the originals are preserved in assets.
